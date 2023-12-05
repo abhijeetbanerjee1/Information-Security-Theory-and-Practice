@@ -1,0 +1,1 @@
+hello world this is a simple text file the text in this file is in uppercase and it will be converted to lowercase and then all the punctuations and numbers will be removed some numbers 
